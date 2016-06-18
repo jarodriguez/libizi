@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @file
+ * @filee
  * Contains \Triquanta\IziTravel\Client\RequestHandler.
  */
 
